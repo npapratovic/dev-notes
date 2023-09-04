@@ -6,4 +6,5 @@
 
 3) https://laraveldaily.com/lesson/eloquent-the-expert-level/artisan-make-model-options
 
-4) Eloquent: The Expert Level
+4) Eloquent: The Expert Level https://laraveldaily.com/lesson/eloquent-the-expert-level/artisan-make-model-options
+
