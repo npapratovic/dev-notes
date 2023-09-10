@@ -6,3 +6,5 @@
 
 3) https://laraveldaily.com/lesson/eloquent-the-expert-level/artisan-make-model-options Eloquent: The Expert Level 
 
+4) 
+https://benjamincrozat.com/generate-laravel-factories-chatgpt generate laravel factories with chat gpt 
