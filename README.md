@@ -6,5 +6,6 @@
 
 3) https://laraveldaily.com/lesson/eloquent-the-expert-level/artisan-make-model-options Eloquent: The Expert Level 
 
-4) 
-https://benjamincrozat.com/generate-laravel-factories-chatgpt generate laravel factories with chat gpt 
+4) https://benjamincrozat.com/generate-laravel-factories-chatgpt generate laravel factories with chat gpt
+
+5) When to use Traits, Interface and Abstract classes in PHP https://www.youtube.com/watch?v=x9bj30cWolA
