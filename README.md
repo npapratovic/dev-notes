@@ -15,3 +15,5 @@
  - An Interface is a set of method signatures (no properties) to **enforce implementation** in the class they're added to. Good for adding structure and standardization.
 
 In other words, Interfaces are blueprints for classes (they contain method declarations, not body), Traits contain reusable methods and properties and each class can use multiple traits, and Abstract classes are extended, they can contain abstract functions so they have only declaration not the body, and are kind of mix of Traits and Interfaces, cannot be instantieted   
+
+6) https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/ How to Use React Hooks – useEffect, useState, and useContext Code Examples
