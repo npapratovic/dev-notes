@@ -17,3 +17,5 @@
 In other words, Interfaces are blueprints for classes (they contain method declarations, not body), Traits contain reusable methods and properties and each class can use multiple traits, and Abstract classes are extended, they can contain abstract functions so they have only declaration not the body, and are kind of mix of Traits and Interfaces, cannot be instantieted   
 
 6) https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/ How to Use React Hooks – useEffect, useState, and useContext Code Examples
+
+7) https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/
