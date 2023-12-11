@@ -1,4 +1,4 @@
-# php-notes
+# dev-notes
 
 1) Laravel API toolkit: https://laravel-news.com/laravel-api-toolkit
 
