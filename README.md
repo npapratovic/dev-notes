@@ -19,3 +19,5 @@ In other words, Interfaces are blueprints for classes (they contain method decla
 6) https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/ How to Use React Hooks – useEffect, useState, and useContext Code Examples
 
 7) https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/
+
+8) https://www.youtube.com/watch?v=Uet-bpytdaw extract validation from controller to request class
