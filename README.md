@@ -21,3 +21,5 @@ In other words, Interfaces are blueprints for classes (they contain method decla
 7) https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/
 
 8) https://www.youtube.com/watch?v=Uet-bpytdaw extract validation from controller to request class
+
+9) Process large csv in Laravel with jobs and chunks https://laravel-news.com/how-to-process-large-csv-files-with-laravel?utm_medium=email&utm_campaign=Laravel%20Blade%20session%20directive%20Filament%20v31%20Processing%20large%20CSV%20files%20Tailwind%20v34%20and%20more%20-%20493&utm_content=Laravel%20Blade%20session%20directive%20Filament%20v31%20Processing%20large%20CSV%20files%20Tailwind%20v34%20and%20more%20-%20493+CID_957274ed0bd2b99edbc22cb1b269c72a&utm_source=email%20marketing&utm_term=--if%20mso%20endif--%20Read%20more--if%20mso%20endif--%20--if%20mso%20endif--
