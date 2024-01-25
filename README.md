@@ -24,4 +24,7 @@ In other words, Interfaces are blueprints for classes (they contain method decla
 
 9) Process large csv in Laravel with jobs and chunks [https://laravel-news.com/how-to-process-large-csv-files-with-laravel](https://laravel-news.com/how-to-process-large-csv-files-with-laravel)
     
-11) TIL after you clone repo, there is chance that now all commits will be pulled, so its necesary to do `git fetch origin` (this way you sync local with remote commits) and after that `git pull` so you have latest files locally See more: https://docs.github.com/en/pull-requests/committing-changes-to-your-project/troubleshooting-commits/commit-exists-on-github-but-not-in-my-local-clone  
+11) TIL after you clone repo, there is chance that now all commits will be pulled, so its necesary to do `git fetch origin` (this way you sync local with remote commits) and after that `git pull` so you have latest files locally See more: https://docs.github.com/en/pull-requests/committing-changes-to-your-project/troubleshooting-commits/commit-exists-on-github-but-not-in-my-local-clone
+
+12) https://www.honeybadger.io/blog/laravel-artisan-processes/ An extensive guide for processes and Artisan commands in Laravel
+
