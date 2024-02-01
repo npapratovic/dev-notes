@@ -28,3 +28,5 @@ In other words, Interfaces are blueprints for classes (they contain method decla
 
 12) https://www.honeybadger.io/blog/laravel-artisan-processes/ An extensive guide for processes and Artisan commands in Laravel
 
+13) How to build Laravel API from scratch https://laraveldaily.com/course/api-laravel
+
