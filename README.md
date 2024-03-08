@@ -30,3 +30,4 @@ In other words, Interfaces are blueprints for classes (they contain method decla
 
 13) How to build Laravel API from scratch https://laraveldaily.com/course/api-laravel
 
+14) https://dev.to/mikevarenek/understanding-laravel-traits-471g Practial use of Laravel traits, nice example: API Response Trait
